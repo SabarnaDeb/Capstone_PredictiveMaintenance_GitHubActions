@@ -1,5 +1,0 @@
-pandas
-scikit-learn
-datasets
-huggingface_hub
-joblib
